@@ -1,2 +1,3 @@
 # Macroeconomic-Impact-on-Stock-Market
-I analyzed the impact of Unemployment Rate and GDP Growth on the S&amp;P 500 using VAR and ARIMA models, visualizing trends in an interactive dashboard.
+I analyzed the impact of Unemployment Rate and GDP Growth on the S&amp;P 500 using VAR and ARIMA models, visualizing trends in an interactive dashboard.  
+Check out the project - https://colab.research.google.com/drive/1kCx_U1w7Ily-1a51awruTVCITFGqYMZm?usp=sharing
